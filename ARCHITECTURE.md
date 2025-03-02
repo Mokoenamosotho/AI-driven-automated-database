@@ -1,4 +1,4 @@
-**C4 Architectural Diagrams – Implementing AI-Driven Automated Database Recovery Techniques in Western cape hospials**
+### **C4 Architectural Diagrams – Implementing AI-Driven Automated Database Recovery Techniques in Western cape hospials**
 
 **Project Name:** Implementing AI-Driven Automated Database Recovery Techniques in Western cape hospials 
 
@@ -46,7 +46,7 @@ Key Components inside AI Recovery Engine:
 - Automated Failover System – Switches to backup servers in case of failure.
 - Backup Verification Module – Ensures database backups are not corrupted.
 
-****4. Code Diagram ****
+**4. Code Diagram**
 - Example: AI-based anomaly detection using Python
 - Database scripts for automated rollback
 

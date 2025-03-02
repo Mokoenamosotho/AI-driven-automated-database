@@ -1,4 +1,4 @@
-**Project name:** Implementing AI-Driven Automated Database Recovery Techniques in Western Cape Hospitals
+### **Project name:** Implementing AI-Driven Automated Database Recovery Techniques in Western Cape Hospitals
 
 **Domain:** Healthcare Database Management & AI-Driven Data Recovery – This project falls under database administration, artificial intelligence and system recovery. It focuses on integrating AI and machine learning with MySQL to enhance database resilience, automate recovery and reduce downtime.
 
