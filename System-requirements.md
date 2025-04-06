@@ -103,6 +103,4 @@ This **System Requirements Document (SRD)** outlines the essential **functional*
 
 ---
 
-This structure ensures that the SRD is **well-documented**, **organized**, and **traceable** to the specific needs of stakeholders, and can be easily maintained and updated in GitHub.
-
-Would you like to add or modify anything else before you push the document to GitHub? 🚀
+This structure ensures that the SRD is **well-documented**, **organized**, and **traceable** to the specific needs of stakeholders, and can be easily maintained and updated 
